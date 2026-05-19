@@ -6,3 +6,6 @@ seaborn
 ydata-profiling
 jupyter
 ipykernel
+optuna
+xgboost
+lightgbm
