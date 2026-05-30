@@ -78,6 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local model artifacts
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
 # IPython
 profile_default/
 ipython_config.py
