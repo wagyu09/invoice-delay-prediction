@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Codex local files
+.codex
+**/.codex
+
 # Local model artifacts
 models/*.joblib
 models/*.pkl
